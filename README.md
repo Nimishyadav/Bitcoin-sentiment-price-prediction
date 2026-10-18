@@ -130,4 +130,8 @@ Never upload `.env`, API keys or private raw datasets.
 Use `.env.example` as a configuration reference.
 
 
-<img width="1917" height="967" alt="Screenshot 2026-10-18 135723" src="https://github.com/user-attachments/assets/494d6a91-5a4c-4cde-91af-c8d817b00bec" />
+<img width="367" height="906" alt="Screenshot 2026-10-18 133401" src="https://github.com/user-attachments/assets/71b7be75-e470-492c-a4d5-069d222f71be" />
+<img width="1917" height="907" alt="Screenshot 2026-10-18 133348" src="https://github.com/user-attachments/assets/13be428c-0a9a-472c-b4e8-86e7191fa549" />
+<img width="1917" height="902" alt="Screenshot 2026-10-18 133333" src="https://github.com/user-attachments/assets/ac534c1e-ba38-4228-b510-558193786976" />
+<img width="1912" height="902" alt="Screenshot 2026-10-18 133317" src="https://github.com/user-attachments/assets/e0307e81-cda2-4651-a3ff-771a7a4e5303" />
+
